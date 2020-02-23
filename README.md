@@ -1,2 +1,1 @@
-# notepadpp_zpl_language
-ZPL Language definition file for Nodepad++
+# Language definition file for ZPL Zebra-Printing Language in Notepad++
